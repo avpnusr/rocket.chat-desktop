@@ -8,7 +8,7 @@ Rocket.Chat provides only an amd64 architecture version, so this docker images i
 
 Versions in the latest image
 -----
-- [Rocket.Chat](https://discordapp.com/ "Discord Homepage") Version: 0.0.9
+- [Rocket.Chat](https://rocket.chat "Rocket.Chat Homepage") Version: 2.17.1
 - [Debian Base Image](https://hub.docker.com/_/debian "Debian Docker Repo") Version: 9-slim
 
 Start your container
