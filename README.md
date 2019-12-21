@@ -1,6 +1,7 @@
 ![Rocket.Chat Logos](https://rocket.chat/images/default/logo--dark.svg)
 
-**Official Rocket.Chat client in docker container \n(for X11 server with GUI)**
+**Official Rocket.Chat client in docker container**        
+**(for X11 server with GUI)**
 ===
 
 Rocket.Chat provides only an amd64 architecture version, so this docker images is only for amd64 systems as well.   
