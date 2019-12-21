@@ -1,4 +1,4 @@
-[Rocket.Chat Logos](https://rocket.chat/images/default/logo--dark.svg)
+![Rocket.Chat Logos](https://rocket.chat/images/default/logo--dark.svg)
 
 **Official Rocket.Chat client in docker container (for X11 server with GUI)**
 ===
