@@ -13,9 +13,8 @@ Versions in the latest image
 
 Start your container
 -----
-Use the below start sequence to get a running Discord client displaying on your host X11 server.    
+Use the below start sequence to get a running Rocket.Chat client displaying on your host X11 server.    
 Be aware, that this way of accessing the X11 server is not the safest, you will find more secure methods online.   
-As the Discord client hast some strange startup behavior while updating, it needed a custom start-script, to work in docker.    
 
 ```
 docker run -it \
